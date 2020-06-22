@@ -1,0 +1,4 @@
+Este projecto foi criando como forma de responde ao problema levantado na monografia para obtençao de Grau de Licenciado,
+No instituto Superior Monitor
+
+Sendo que o mesmo podera sofrer alterações conforme a necessidade da instituição onde se pretende implementar 
